@@ -5,4 +5,4 @@
 
 ## Stats
 ![MapleAtMorning's GitHub stats](https://github-readme-stats.vercel.app/api?username=MapleAtMorning&show-icons=true&theme=dracula)
-![MapleAtMorning's GitHub stats](https://github-readme-stats.vercel.app/top-langs/api?username=MapleAtMorning&show-icons=true&theme=dracula)
+![MapleAtMorning's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MapleAtMorning&show-icons=true&theme=dracula)
