@@ -4,4 +4,5 @@
 [![Lua](https://img.shields.io/badge/-Lua-210db8?style=for-the-badge&logo=Lua&logoColor=white)](https://www.lua.org/)
 
 ## Stats
-![MapleAtMorning's GitHub stats](https://github-readme-stats.vercel.app/api?username=MapleAtMorning)
+![MapleAtMorning's GitHub stats](https://github-readme-stats.vercel.app/api?username=MapleAtMorning&show-icons=true&theme=dracula)
+![MapleAtMorning's GitHub stats](https://github-readme-stats.vercel.app/top-langs/api?username=MapleAtMorning&show-icons=true&theme=dracula)
