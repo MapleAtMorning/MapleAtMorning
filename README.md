@@ -5,8 +5,8 @@
 
 ## Tools
 [![VSC](https://img.shields.io/badge/-VSC-0079d0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
-[![Github Desktop](https://img.shields.io/badge/-Github_Desktop-7c3eec?style=for-the-badge&logo=Github&logoColor=white)](https://code.visualstudio.com/)
-[![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=for-the-badge&logo=FirefoxBrowser&logoColor=white)](https://code.visualstudio.com/)
+[![Github Desktop](https://img.shields.io/badge/-Github_Desktop-7c3eec?style=for-the-badge&logo=Github&logoColor=white)](https://desktop.github.com/)
+[![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=for-the-badge&logo=FirefoxBrowser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 
 ## Stats
 ![MapleAtMorning's GitHub stats](https://github-readme-stats.vercel.app/api?username=MapleAtMorning&show_icons=true&count_private=true&theme=dracula)
