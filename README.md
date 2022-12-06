@@ -5,7 +5,7 @@
 [![Lua](https://img.shields.io/badge/-Lua-000081?style=for-the-badge&logo=Lua&logoColor=white)](https://www.lua.org/)
 
 ### Learning
-[![JavaScript](https://img.shields.io/badge/-JavaScript-2f3131?style=for-the-badge&logo=JavaScript&logoColor=white)](https://getbootstrap.com)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-2f3131?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
 
 ## Tools
 [![VSC](https://img.shields.io/badge/-VSC-0079d0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
