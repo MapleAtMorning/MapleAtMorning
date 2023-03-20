@@ -18,4 +18,3 @@
 
 ## Stats
 ![MapleAtMorning's GitHub stats](https://github-readme-stats.vercel.app/api?username=MapleAtMorning&show_icons=true&count_private=true&theme=dracula)
-![MapleAtMorning's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MapleAtMorning&show_icons=true&count_private=true&theme=dracula)
