@@ -3,9 +3,10 @@
 [![HTML](https://img.shields.io/badge/-HTML-d63d0f?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)
 [![CSS](https://img.shields.io/badge/-CSS-2299f8?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/)
 [![Lua](https://img.shields.io/badge/-Lua-000081?style=for-the-badge&logo=Lua&logoColor=white)](https://www.lua.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-2f3131?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
 
 ### Learning
-[![JavaScript](https://img.shields.io/badge/-JavaScript-2f3131?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/-Python-377bb5?style=for-the-badge&logo=Python&logoColor=white)](https://www.Python.org/)
 
 ## Tools
 [![VSC](https://img.shields.io/badge/-VSC-0079d0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
