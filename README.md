@@ -15,7 +15,3 @@
 
 ## Frameworks and Libraries
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com)
-
-
-## Stats
-![MapleAtMorning's GitHub stats](https://github-readme-stats.vercel.app/api?username=MapleAtMorning&show_icons=true&count_private=true&theme=dracula)
