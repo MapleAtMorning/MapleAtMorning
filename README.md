@@ -14,6 +14,3 @@
 [![Github Desktop](https://img.shields.io/badge/-Github_Desktop-7c3eec?style=for-the-badge&logo=Github&logoColor=white)](https://desktop.github.com/)
 [![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=for-the-badge&logo=FirefoxBrowser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-3f3e41?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
-
-## Frameworks and Libraries
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com)
