@@ -4,10 +4,11 @@
 [![CSS](https://img.shields.io/badge/-CSS-2299f8?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-2f3131?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
 [![Python](https://img.shields.io/badge/-Python-377bb5?style=for-the-badge&logo=Python&logoColor=white)](https://www.Python.org/)
+[![Java](https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://www.Java.com/)
 
 ### Learning / Previously used
 
-[![Java](https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://www.Java.com/)
+[![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=C%23&logoColor=white)](https://www.Java.com/)
 [![Lua](https://img.shields.io/badge/-Lua-000081?style=for-the-badge&logo=Lua&logoColor=white)](https://www.lua.org/)
 
 ## Tools
