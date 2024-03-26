@@ -8,7 +8,7 @@
 
 ### Learning / Previously used
 
-[![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=C%23&logoColor=white)](https://www.Java.com/)
+[![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=C%23&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![Lua](https://img.shields.io/badge/-Lua-000081?style=for-the-badge&logo=Lua&logoColor=white)](https://www.lua.org/)
 
 ## Tools
