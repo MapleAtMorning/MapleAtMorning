@@ -1,3 +1,7 @@
+# Hi I'm Maple, or MapleAtMorning.
+Currently doing college stuff, so sorry if any of my repositories go quiet. <br>
+<sup> Especially OldSteam. <sup>It's dead and dying and sad.</sup></sup>
+
 ## Languages
 ### Certified
 [![HTML](https://img.shields.io/badge/-HTML-d63d0f?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)
